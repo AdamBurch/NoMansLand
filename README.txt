@@ -1,0 +1,1 @@
+A simple game where you place platforms to find treasure
